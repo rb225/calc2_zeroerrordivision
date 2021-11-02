@@ -1,5 +1,5 @@
 # Calculator Project Setup
-[![Build Status](https://app.travis-ci.com/rb225/calc2.svg?branch=main)](https://app.travis-ci.com/rb225/calc2)
+[![Build Status](https://app.travis-ci.com/rb225/calc2_zeroerrordivision.svg?branch=main)](https://app.travis-ci.com/rb225/calc2_zeroerrordivision)
 
 Run Pip Install
 pip install -r requirements.txt
