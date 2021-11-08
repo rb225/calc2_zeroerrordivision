@@ -47,7 +47,7 @@ def test_get_first_calculation_result(clear_history):
 
 def test_calculator_subtract(clear_history):
     """Testing the subtract method of the calculator"""
-    assert Calculator.subtract_number(1, 2) == -1
+    assert Calculator.subtract_number(3,1) == 2
 
 def test_calculator_multiply(clear_history):
     """ tests multiplication of two numbers"""
@@ -55,4 +55,4 @@ def test_calculator_multiply(clear_history):
 
 def test_calculator_division(clear_history):
     """ tests division of two numbers"""
-    assert Calculator.division_numbers(1,2) == 0.5
+    assert Calculator.division_numbers(4,2) == 2
